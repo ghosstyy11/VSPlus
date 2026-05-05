@@ -3,4 +3,4 @@ VS+ (Virtual Stump Plus) is a mod allowing mappers to add extra features to thei
 
 This mod also brings fixes to existing Virtual Stump bugs.
 
-![Logo](logo.png)
+<img src="logo.png" alt="Logo" width="25%">
